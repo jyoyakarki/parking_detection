@@ -1,0 +1,6 @@
+Experiment,Learning Rate,Dropout,Validation Accuracy,Validation Precision,Validation Recall,Validation F1
+Baseline,0.001,0.5,1.0,1.0,1.0,1.0
+Lower Learning Rate,0.0001,0.5,1.0,1.0,1.0,1.0
+Baseline,0.001,0.5,1.0,1.0,1.0,1.0
+Lower Learning Rate,0.0001,0.5,1.0,1.0,1.0,1.0
+Lower Dropout,0.001,0.3,1.0,1.0,1.0,1.0
